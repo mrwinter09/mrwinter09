@@ -18,11 +18,11 @@
 
 ### and what make's me start up my computer
 
-In the next five years, the digital world won’t just evolve; it will completely reshape the way we live, interact, and create. What if we could build software that doesn’t just solve problems but truly transforms the industries around us? What if we could create tools that empower others—creators, business leaders, innovators—to push boundaries and realize possibilities we can only dream of today?
+In the next five years, the digital world won’t just evolve; it will completely reshape the way we live, interact, and create. What if we could build software that doesn’t just solve problems but truly transforms the industries around us? What if we could create tools that empower others creators, business leaders, innovators to push boundaries and realize possibilities we can only dream of today?
 
 I’m Ivan Winter, a multidisciplinary creator and tech enthusiast, blending the arts, business, and software development to craft experiences that matter. But let me be honest: I’m not just interested in building apps or solving short-term problems. What excites me is designing ecosystems where collaboration thrives, creativity flows, and the impossible becomes possible.
 
-I don’t have all the answers yet, but I’m curious about what we can discover together. Because, at the heart of it all, I believe it’s not just about what we build, but the impact we create. It’s about looking ahead and asking—what’s next? How can we make things better, different, and more meaningful for the people around us?
+I don’t have all the answers yet, but I’m curious about what we can discover together. Because, at the heart of it all, I believe it’s not just about what we build, but the impact we create. It’s about looking ahead and asking what’s next? How can we make things better, different, and more meaningful for the people around us?
 
 If that resonates with you, let’s talk. Maybe we’ll uncover something amazing, something worth building, together.
 
@@ -30,7 +30,7 @@ If that resonates with you, let’s talk. Maybe we’ll uncover something amazin
 
 ### What I'm Working on...
 
-[XLDGR Project](https://www.xldgr.com)
+[Vereemo Project](https://www.vereemo.com)
 [Qahwa Alhan](https://www.xldgr.com)
 
 
