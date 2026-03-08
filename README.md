@@ -32,7 +32,7 @@ I am a multidisciplinary software engineer and the founder of **Vereemo**, curre
 
 In the next five years, the digital world won’t just evolve; it will completely reshape how we verify trust and interact across borders. I believe we are entering an era where software must be as reliable as a bank but as intuitive as a creative masterpiece. 
 
-I’m Ivan Winter, a creator blending the arts, business, and enterprise engineering to craft experiences that matter. What excites me right now is **modernizing architecture**: moving from coupled, rigid systems to modular, "bank-grade" cloud ecosystems where security isn't just a feature—it's the foundation.
+I’m Ivan Winter, a creator blending the arts, business, and enterprise engineering to craft experiences that matter. What excites me right now is **modernizing architecture**: moving from coupled, rigid systems to modular, "bank-grade" cloud ecosystems where security isn't just a feature, it's the foundation.
 
 I’m currently deepening my expertise in **Azure (AZ-900/SC-900)** and **.NET Enterprise patterns** to ensure my platform, Vereemo, can meet the most rigorous global compliance standards. I don’t just want to build apps; I want to design the high-security infrastructure that allows industries like cannabis and fintech to scale safely.
 
@@ -43,7 +43,6 @@ If you’re interested in cloud migration, identity security, or the intersectio
 ### 🛠️ Current Focus & Projects
 
 * **[Vereemo](https://www.vereemo.com):** Migrating from Next.js/Supabase to a decoupled **Azure Functions & .NET Core** architecture for SOC 2 readiness.
-* **[Qahwa Alhan](https://www.xldgr.com):** Exploring the intersection of digital storytelling and tech.
 * **Cloud Journey:** Completing **AZ-900** and **SC-900** certifications to solidify my foundation in enterprise cloud security.
 
 ---
