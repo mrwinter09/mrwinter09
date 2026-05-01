@@ -30,25 +30,30 @@ I am a multidisciplinary software engineer and the founder of **Vereemo**, curre
 
 ### ⚡ What Makes Me Start Up My Computer
 
-In the next five years, the digital world won’t just evolve; it will completely reshape how we verify trust and interact across borders. I believe we are entering an era where software must be as reliable as a bank but as intuitive as a creative masterpiece. 
+We are moving into a world where trust must be programmable.
 
-I’m Ivan Winter, a creator blending the arts, business, and enterprise engineering to craft experiences that matter. What excites me right now is **modernizing architecture**: moving from coupled, rigid systems to modular, "bank-grade" cloud ecosystems where security isn't just a feature, it's the foundation.
+I focus on building systems where:
 
-I’m currently deepening my expertise in **Azure (AZ-900/SC-900)** and **.NET Enterprise patterns** to ensure my platform, Vereemo, can meet the most rigorous global compliance standards. I don’t just want to build apps; I want to design the high-security infrastructure that allows industries like cannabis and fintech to scale safely.
+identity can be verified
+data can be trusted
+and outcomes are auditable
 
-If you’re interested in cloud migration, identity security, or the intersection of art and architecture, let’s talk.
+From proof layer (Vereemo) to historical data access (Forimo), the core question stays the same:
+
+How do we turn fragmented data into reliable, verifiable systems?
 
 ---
 
 ### 🛠️ Current Focus & Projects
 
 * **[Vereemo](https://www.vereemo.com):** Migrating from Next.js/Supabase to a decoupled **Azure Functions & .NET Core** architecture for SOC 2 readiness.
+* * **[Forimo](https://www.vereemo.co):** Developing an open, API-driven infrastructure layer that transforms fragmented genealogical data into structured research dossiers. Built with Next.js, Supabase, and external data APIs, focused on transparency, evidence gaps, and public data accessibility.
 * **Cloud Journey:** Completing **AZ-900** and **SC-900** certifications to solidify my foundation in enterprise cloud security.
 
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Ivan Winter](https://www.linkedin.com/in/your-profile-here)
+* **LinkedIn:** [Ivan Winter](https://www.linkedin.com/in/ivan-winter-5a470669)
 * **Email:** ivan.winter09@gmail.com
 
 ---
