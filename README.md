@@ -47,7 +47,7 @@ How do we turn fragmented data into reliable, verifiable systems?
 ### 🛠️ Current Focus & Projects
 
 * **[Vereemo](https://www.vereemo.com):** Migrating from Next.js/Supabase to a decoupled **Azure Functions & .NET Core** architecture for SOC 2 readiness.
-* * **[Forimo](https://www.vereemo.co):** Developing an open, API-driven infrastructure layer that transforms fragmented genealogical data into structured research dossiers. Built with Next.js, Supabase, and external data APIs, focused on transparency, evidence gaps, and public data accessibility.
+* **[Forimo](https://www.vereemo.co):** Developing an open, API-driven infrastructure layer that transforms fragmented genealogical data into structured research dossiers. Built with Next.js, Supabase, and external data APIs, focused on transparency, evidence gaps, and public data accessibility.
 * **Cloud Journey:** Completing **AZ-900** and **SC-900** certifications to solidify my foundation in enterprise cloud security.
 
 ---
